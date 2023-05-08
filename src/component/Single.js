@@ -21,7 +21,7 @@ export default function Single() {
   return (
     <>
       <Container>
-        <h2 className="text-dark text-center ">GeoLocation</h2>
+        <h2 className="text-dark text-center ">Get your Location</h2>
         <Row className="justify-content-center">
           <Col md className="text-center img-fluid">
             {location.address && (
@@ -36,7 +36,7 @@ export default function Single() {
                 className="rounded shadow"
                 src={mapSrc}
                 width="100%"
-                height="1000"
+                height="850"
                 style={{ border: "0" }}
                 allowFullScreen=""
                 loading="lazy"
