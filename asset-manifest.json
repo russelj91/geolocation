@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geolocation/static/css/main.c2cab247.css",
+    "main.js": "/geolocation/static/js/main.ebabefe4.js",
+    "index.html": "/geolocation/index.html",
+    "main.c2cab247.css.map": "/geolocation/static/css/main.c2cab247.css.map",
+    "main.ebabefe4.js.map": "/geolocation/static/js/main.ebabefe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.ebabefe4.js"
+  ]
+}
